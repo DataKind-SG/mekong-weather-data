@@ -1,0 +1,32 @@
+Bangkok:
+radarc.jpg
+radarh.jpg
+
+Chiang Rai: cri_latest.gif
+Lamphun: Says no data
+lamphun.gif (borders)
+lmp240_latest.jpg
+Phitsanulok: phs240_latest.jpg
+Phetchabun: phb240_latest.gif
+Khon Kaen: kkn240_latest.jpg
+Sakon Nakhon: skn240_latest.jpg
+Ubon Ratchathani(120): ubol120_latest.gif (says there's no data, but looks like there is...)
+Ubon Ratchathani(240): ubol240_latest.gif (says there's no data, but looks like there is...)
+Surin: srn240x_latest.gif
+Chainat: chn240_latest.jpg  
+Nakhon Nayok: kkw240_latest.gif  
+Suvarnabhumi(120): svp120_latest.gif  
+Suvarnabhumi(240): svp240_latest.gif
+Rayong: (says there's no data, but looks like there is...)
+ryg_latest.gif
+ryg240_latest.gif (legacy?)
+Hua Hin: hhn_latest.gif  
+Chumphon: cmp240_latest.jpg
+Surat Thani: srt_latest.gif  
+Koh Samui: smi240_latest.jpg  
+Phuket(120): pkt120-latest.gif
+Phuket(240): pkt240-latest.gif
+Krabi: krb_latest.gif
+Songkhla: stp240_latest.gif  
+Narathiwat: nrt240_latest.jpg
+
